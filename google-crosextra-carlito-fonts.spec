@@ -6,7 +6,7 @@
 
 Name:           %{fontname}-fonts
 Version:        1.103
-Release:        %mkrel 0.1.20130920.4
+Release:        0.1.20130920.1
 Summary:        Sans-serif font metric-compatible with Calibri font
 
 Group:          System/Fonts/True type
@@ -54,30 +54,3 @@ ln -s %{_fontconfig_templatedir}/%{fontconf62}-fontconfig.conf \
 
 %doc LICENSE
 
-
-
-
-%changelog
-* Wed Oct 15 2014 umeabot <umeabot> 1.103-0.1.20130920.4.mga5
-+ Revision: 746745
-- Second Mageia 5 Mass Rebuild
-
-* Tue Sep 16 2014 umeabot <umeabot> 1.103-0.1.20130920.3.mga5
-+ Revision: 679890
-- Mageia 5 Mass Rebuild
-
-* Sat Nov 02 2013 tv <tv> 1.103-0.1.20130920.2.mga4
-+ Revision: 549105
-- really rebuild with fixed fontpackages-devel (w/o scriptlets)
-
-* Sat Nov 02 2013 tv <tv> 1.103-0.1.20130920.1.mga4
-+ Revision: 548815
-- rebuild with fixed fontpackages-devel (w/o scriptlets)
-
-* Sat Nov 02 2013 tv <tv> 1.103-0.1.20130920.mga4
-+ Revision: 548780
-- imported package google-crosextra-carlito-fonts
-
-
-* Sat Nov 02 2013 Thierry Vignaud <tv@mageia.org> 1.103-0.1.20130920.mga4
-- imported from FC
