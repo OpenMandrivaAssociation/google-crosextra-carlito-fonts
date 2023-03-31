@@ -6,7 +6,7 @@
 
 Name:           %{fontname}-fonts
 Version:        1.103
-Release:        0.1.20130920.3
+Release:        0.1.20130920.4
 Summary:        Sans-serif font metric-compatible with Calibri font
 
 Group:          System/Fonts/True type
