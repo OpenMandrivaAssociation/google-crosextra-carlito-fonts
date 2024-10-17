@@ -11,7 +11,7 @@ Summary:        Sans-serif font metric-compatible with Calibri font
 
 Group:          System/Fonts/True type
 License:        OFL
-URL:            http://code.google.com/p/chromium/issues/detail?id=280557
+URL:            https://code.google.com/p/chromium/issues/detail?id=280557
 Source0:        http://gsdview.appspot.com/chromeos-localmirror/distfiles/%{archivename}.tar.gz
 Source1:        30-0-%{fontname}-fontconfig.conf
 Source2:        62-%{fontname}-fontconfig.conf
